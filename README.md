@@ -1,4 +1,4 @@
-## Some benchmarks that prove parallel IO is a bad idea.
+## Some benchmarks that prove parallel Filo IO is a bad idea.
 
 The benchmarks compare the single-shot time to unzip a ffmpeg distribution.
 7Zip is required on Windows, and `unzip` on Mac/Linux.
